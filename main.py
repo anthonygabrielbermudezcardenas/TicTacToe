@@ -1,4 +1,4 @@
-from class_Body import Body
+from Body import Body
 
 while True:
     Body().run()
